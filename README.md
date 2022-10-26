@@ -1,1 +1,3 @@
 # pinjamin
+
+CURD ne TOK
